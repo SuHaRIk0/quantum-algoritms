@@ -6,7 +6,7 @@ This repository contains Python implementations of quantum algorithms, including
 
 To run the scripts, you need the following:
 
-- Python 3.8 or higher
+- Python 3.8 <= version <= 3.13
 - QuTiP (Quantum Toolbox in Python)
 - NumPy
 - Matplotlib
